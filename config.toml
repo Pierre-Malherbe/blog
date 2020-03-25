@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://jovial-fermat-9efd3f.netlify.com"
 languageCode = "fr"
 title = "Pierre Malherbe"
 theme = "anubis"
