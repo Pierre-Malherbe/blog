@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://blog.pierremalherbe.com/"
 languageCode = "fr"
 title = "Pierre Malherbe"
 theme = "anubis"
@@ -18,7 +18,7 @@ enableGitInfo = true
     identifier = "about"
     name = "À propos"
     pre = "<i class='fa fa-heart'></i>"
-    url = "/about/"
+    url = "https://pierremalherbe.com"
     weight = 1
 
   [[menu.main]]
