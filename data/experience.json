@@ -1,0 +1,17 @@
+{
+	"title" : "Expériences",
+	"experience" : [
+		{
+			"timeperiod" : "Juin 2016 - Aout 2018",
+			"company" : "Groupe Renault",
+			"website": "https://www.alliance-2022.com/about-us/",
+			"description" : "Développeur Java sur la nouvelle brique Renault-Nissan pour les nouveaux véhicules connectés."
+		},
+		{
+			"timeperiod" : "Sept 2018 - Actuellement",
+			"company" : "Zenika",
+			"website": "https://zenika.com/",
+			"description" : "Consultant à Zenika, je travaille sur des missions DevOps de mise en place d'infrastructures Cloud avec Kubernetes."
+		}
+	]
+}

@@ -1,7 +1,7 @@
-baseURL = "https://jovial-fermat-9efd3f.netlify.com"
+baseURL = "https://pierremalherbe.com/"
 languageCode = "fr"
 title = "Pierre Malherbe"
-theme = "anubis"
+theme = "hugo-uilite"
 paginate= 10
 enableGitInfo = true
 
@@ -10,27 +10,4 @@ enableGitInfo = true
 
 [params]
    author = "Pierre Malherbe"
-   description = "Anubis is a simple minimalist theme for Hugo blog engine."
-
-[menu]
-
-  [[menu.main]]
-    identifier = "about"
-    name = "À propos"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/about/"
-    weight = 1
-
-  [[menu.main]]
-    name = "Archives"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
-    url = "/posts/"
-    weight = 2
-
-  [[menu.main]]
-    identifier = "rss"
-    name = "RSS"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "index.xml"
-    weight = 3
+   description = "DevOps passionné sur le secteur de Lille. "

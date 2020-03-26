@@ -1,0 +1,15 @@
+{
+	"title" : "Compétences",
+	"services" : [
+		{
+			"icon" : "truck",
+			"title" : "DevOps",
+			"description" : "Ma passion c'est l'automatisation, avec mes différentes épériences je fais du DevOps un de mes pilier de ma carrière et l'une de mes passions. "
+		},
+		{
+			"icon" : "cloud",
+			"title" : "Cloud",
+			"description" : "Travaillant sur de nombreuses problématiques Cloud, j'ai fait de ce sujet un pilier de ma carrière notamment avec le cloud provider Azure. "
+		}
+	]
+}
