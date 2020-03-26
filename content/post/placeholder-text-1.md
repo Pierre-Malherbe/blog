@@ -1,7 +1,6 @@
 +++
 authors = ["Hugo Authors"]
 date = 2019-03-08T23:00:00Z
-draft = true
 excerpt = "Lorem Ipsum Dolor Si Amet"
 hero = "/images/hero-4.jpg"
 title = "Test Blog"
