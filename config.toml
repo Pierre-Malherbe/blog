@@ -56,7 +56,7 @@ copyright = ""            # default: author.name ↓
   since = "2020"            # Site creation time          # 站点建立时间
   # use public git repo url to link lastmod git commit, enableGitInfo should be true.
   # 指定 git 仓库地址，可以生成指向最近更新的 git commit 的链接，需要将 enableGitInfo 设置成 true.
-  gitRepo = "https://github.com/Pierre-Malherbe/blog/tree/blog"
+  gitRepo = "https://github.com/Pierre-Malherbe/blog"
 
   # site info (optional)
   logoTitle = "PM - Blog"        # default: the title value
